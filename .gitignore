@@ -1,3 +1,4 @@
+#git will ignore this file
 *.log
 .env
 node_modules/
