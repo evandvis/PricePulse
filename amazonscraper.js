@@ -38,3 +38,5 @@ scrapeAmazonProduct(productUrl).then((result) => {
     console.log("Failed to scrape the product.");
   }
 });
+
+module.exports = scrapeAmazonProduct;
